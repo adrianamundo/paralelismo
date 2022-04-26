@@ -1,8 +1,8 @@
 # Paralelismo proyecto
 
-* Jean Pierre Mejicanos
-* Adriana Mundo
-* Pablo Velasquez
+- Jean Pierre Mejicanos
+- Adriana Mundo
+- Pablo Velasquez
 
 ## Proyecto de Procesamiento Paralelo Sistemas Operativos
 
