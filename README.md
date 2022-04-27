@@ -21,6 +21,11 @@ Crear un programa que permita calcular en concurrencia la media, la deviación e
 - Docker
 
 ## Ejecución del proyecto
+### Docker
+'''
+docker build -t paralelizacion .
+docker run --cpus="4" --memory="1g" -it paralelizacion
+'''
 
 ## Preguntas
 1. ¿Cuál es el modelo de paralelismo más rápido en los 6 escenarios?
