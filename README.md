@@ -31,6 +31,16 @@ El argumento de CPUs es utilizado para indicar la cantidad de CPUs a utilizar. E
 #### Python
 En el código se debe cambiar: *n_hilos_ls = [1,2,4,8]* para poder indicar la cantidad de hilos a usar. Así pues, el código correra los modelos con cada uno de los elementos en la lista.
 
+### Ejecución en terminal
+#### 1 core
+![image](https://user-images.githubusercontent.com/48104764/165573648-7824ffbf-c8c0-461b-87a7-c2e9cc936de0.png)
+
+#### 2 core
+![image](https://user-images.githubusercontent.com/48104764/165573718-983677cd-48d6-47f3-af61-279811334217.png)
+
+#### 4 core
+![image](https://user-images.githubusercontent.com/48104764/165573804-8e049eb0-7ef3-467b-8d2b-7c1f196d1d1f.png)
+
 ## Gráficas por modelo en cada escenario
 #### Por archivos
 ![image](https://user-images.githubusercontent.com/48104764/165568449-59d647ce-4650-43ee-9509-460257f25b5b.png)
