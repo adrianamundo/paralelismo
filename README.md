@@ -45,7 +45,8 @@ En el código se debe cambiar: *n_hilos_ls = [1,2,4,8]* para poder indicar la ca
 ![image](https://user-images.githubusercontent.com/48104764/165569951-897f129e-8ae2-449c-a811-a3f9c49ccad3.png)
 
 #### Comparación de todos los modelos
-![image](https://user-images.githubusercontent.com/48104764/165570552-2db7058e-71dc-4c15-b317-2d348ec3abe2.png)
+![image](https://user-images.githubusercontent.com/48104764/165572540-4d9e95da-c5c4-496c-99aa-ef60cfe4cf5f.png)
+
 
 
 ## Preguntas
