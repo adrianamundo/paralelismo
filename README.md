@@ -31,6 +31,23 @@ El argumento de CPUs es utilizado para indicar la cantidad de CPUs a utilizar. E
 #### Python
 En el código se debe cambiar: *n_hilos_ls = [1,2,4,8]* para poder indicar la cantidad de hilos a usar. Así pues, el código correra los modelos con cada uno de los elementos en la lista.
 
+## Gráficas por modelo en cada escenario
+#### Por archivos
+![image](https://user-images.githubusercontent.com/48104764/165568449-59d647ce-4650-43ee-9509-460257f25b5b.png)
+
+#### Por funciones
+![image](https://user-images.githubusercontent.com/48104764/165568934-632915ec-be08-4104-8f0c-b9117cdb19b4.png)
+
+#### Por archivo y funciones
+![image](https://user-images.githubusercontent.com/48104764/165569728-e30c3781-f4ee-4f2e-9ed6-a9ce94945235.png)
+
+#### Secuencial
+![image](https://user-images.githubusercontent.com/48104764/165569951-897f129e-8ae2-449c-a811-a3f9c49ccad3.png)
+
+#### Comparación de todos los modelos
+![image](https://user-images.githubusercontent.com/48104764/165570552-2db7058e-71dc-4c15-b317-2d348ec3abe2.png)
+
+
 ## Preguntas
 1. ¿Cuál es el modelo de paralelismo más rápido en los 6 escenarios?
 
