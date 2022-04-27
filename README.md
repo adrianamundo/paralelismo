@@ -21,11 +21,15 @@ Crear un programa que permita calcular en concurrencia la media, la deviación e
 - Docker
 
 ## Ejecución del proyecto
-### Docker
-´´´
+#### Docker
+```
 docker build -t paralelizacion .
 docker run --cpus="4" --memory="1g" -it paralelizacion
-´´´
+``` 
+El argumento de CPUs es utilizado para indicar la cantidad de CPUs a utilizar. Esto depende de la cantidad de cores que se desee utilizar. 
+
+#### Python
+En el código se debe cambiar: *n_hilos_ls = [1,2,4,8]* para poder indicar la cantidad de hilos a usar. Así pues, el código correra los modelos con cada uno de los elementos en la lista.
 
 ## Preguntas
 1. ¿Cuál es el modelo de paralelismo más rápido en los 6 escenarios?
