@@ -63,7 +63,6 @@ En el código se debe cambiar: *n_hilos_ls = [1,2,4,8]* para poder indicar la ca
 1. ¿Cuál es el modelo de paralelismo más rápido en los 6 escenarios?
 ![image](https://user-images.githubusercontent.com/48104764/165672472-742ea848-d7e0-4fb3-9daf-6f4d00ad570d.png)
 
-
 2. ¿Cuál opción modelo de paralelismo tomaría y por qué?
 ![image](https://user-images.githubusercontent.com/48104764/165202161-235f8533-0873-4b18-8e2c-0b86dbf830d0.png)	
 
